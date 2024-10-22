@@ -1,6 +1,6 @@
 # mfe-multiple-remotes-example
 
-Example of setting multiple remote urls in MFE for some scenarios(ie. setting fallback urls/use multiple cdns to keep load balances).
+Example of setting multiple remote urls in MFE for some scenarios(ie. setting fallback urls/support different domains).
 
 ## How to use
 
